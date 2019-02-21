@@ -7,7 +7,7 @@ ssh = new node_ssh();
 
 //------Add your info in the variables below and everything is done for you------
 
-const host = ''; //Port the key and username is hosted on.
+const host = ''; //IP Address the key and username is hosted on.
 const username = ''; //Username of the instance used such as ubuntu
 const privateKey = ''; //private network key goes here (It should end in .pem or .ppk)
 const dir = ''; //Project directory name goes here
